@@ -167,4 +167,4 @@ Diabetes-Risk-Prediction-Clinical-Analytics
 
 **Nirupam Joarder**
 
-Biotechnology Graduate | Data Analytics | Healthcare Analytics
+Biotech | Data Analytics | Healthcare Analytics
